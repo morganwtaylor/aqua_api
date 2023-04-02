@@ -9,7 +9,7 @@ A command line, interative, script to assist in pulling information from Aqua an
 Clone the project
 
 ```bash
-  git clone 
+  git clone https://github.com/morganwtaylor/aqua_api.git
 ```
 
 Go to the project directory
